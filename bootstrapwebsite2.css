@@ -1,0 +1,108 @@
+*{padding: 0; margin:0; box-sizing: border-box;}
+body{
+    scroll-behavior: smooth;
+    background-color: black;
+    
+
+}
+.navbar{
+    letter-spacing: 3px;
+    background-color: black;
+    color: black;
+}
+ h1{
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-align: left;
+    font-size: 5rem;
+
+}
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 3rem;
+    font-style: bold;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    text-align: center;
+    
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.icon i{
+    padding: 20px;
+    background-color: beige;
+    font-size: 30px;
+    color: black;
+    margin:10px 15px;
+    border-radius: 50%;
+}
+#dental p{
+    font-family: sans-serif;
+    line-height: 30px;
+    color: white;
+    
+
+}
+
+.card-text{
+    color: black;
+
+}
+
+
+#services.card {
+    padding: 20px;
+    color: white;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    border-color:black;
+}
+.collapse {
+    background-color: white;
+}
+.container-fluid {
+    background-color: white;
+}
+.navbar-nav .nav-item .nav-link {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    word-spacing: normal;
+}
+.navbar-nav .nav-item .nav-link.active{
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    word-spacing: normal;
+}
+.carousel{
+    text-align: center;
+    
+}
+.img-fluid{
+    width:180rem ;
+    height: 30rem;
+    object-fit: cover;
+}
+.container{
+    font-size: large;
+    color: black;
+
+    
+}
+.card-text{
+
+    text-align: center;
+}
+.font-monospace {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
